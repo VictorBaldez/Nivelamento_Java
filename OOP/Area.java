@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
 	public static void main(String[]args){
 		Scanner input = new Scanner(System.in);
-		System.out.println("Quantos triângulos deseja calcular a área?:");
+		System.out.println("Esse programa irá calcular a área de um triângulo.\nInsira o valor dos lados:");
 		String i;
 		do {
 			double x,y,z;
@@ -14,9 +14,9 @@ public class Main {
 			z = input.nextDouble();
 			double triangleArea = area(x,y,z);
 			showResult(triangleArea);
-			System.out.println("Deseja realizar o cálculo da área de outro triângulo?:");
+			System.out.println("Deseja realizar o cálculo da área de outro triângulo?(Yes/No):");
 			i = input.next();
-			} while ( i != "Sim");
+			} while ( i.equals("Yes"));
 		input.close();
 	}
 	public static double area(double ladoA,double ladoB,double ladoC) {
@@ -29,10 +29,6 @@ public class Main {
 		return area;
 		
 	}
-	public static void showResult(double value) {
-		System.out.println("Área = " + value);
-	}
-}
 	public static void showResult(double value) {
 		System.out.println("Área = " + value);
 	}
