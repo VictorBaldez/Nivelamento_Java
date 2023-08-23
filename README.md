@@ -9,8 +9,8 @@ Estou aprendendo os principais conceitos de programação orientada a objetos, e
 
 ## Estrutura do Repositório
 
-- `exercicios`: Esta pasta contém os exercícios práticos realizados durante o curso.
-- `projetos`: Aqui, você encontrará os projetos maiores que estou desenvolvendo para aplicar o conhecimento adquirido.
+- `curso_programacao`: Esta pasta contém os exercícios práticos realizados durante o curso.
+- `OOP`: Aqui, você encontrará os projetos maiores que estou desenvolvendo para aplicar o conhecimento adquirido, principalmente em orientação a objetos.
 - `anotacoes`: Minhas anotações pessoais sobre tópicos importantes do curso.
 - `recursos`: Quaisquer recursos adicionais, como materiais complementares, que estejam sendo usados.
 
