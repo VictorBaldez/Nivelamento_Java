@@ -1,25 +1,51 @@
-# Estudo de Java - Curso Udemy com o Professor Nélio Alves
+# Projeto de Desafios Java e Simulações 
 
-Bem-vindo ao meu repositório de estudo de Java! Aqui, estou compartilhando meu progresso e anotações do curso de Java da Udemy ministrado pelo professor Nélio Alves. 
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" alt="Java Logo" width="100">          <img src = "https://salvadortech.salvador.ba.gov.br/wp-content/uploads/2022/07/logo-1024x394.png" alt="Dio Logo" width="180">
 
-## Sobre o Curso
+Este repositório contém uma série de desafios de programação em Java e simulações diversas. Os desafios e simulações abrangem diferentes cenários e conceitos da linguagem Java.
 
-O curso "Java COMPLETO Programação Orientada a Objetos + Projetos" é uma abordagem abrangente para aprender Java. 
-Estou aprendendo os principais conceitos de programação orientada a objetos, estruturas de dados, manipulação de arquivos, tratamento de exceções e mais.
+## Desafios
+### Desafio 1 - Simulação de Criação de Conta Bancária
 
-## Estrutura do Repositório
+No pacote `org.example.sumary.DesafiosDIOJava.Desafio1`, você encontrará uma simulação de criação de conta bancária. O programa solicita informações do usuário, como número de usuário, número da agência, nome, sobrenome e saldo bancário. Ele, então, exibe uma mensagem formatada com as informações fornecidas.
 
-- `curso_programacao`: Esta pasta contém os exercícios práticos realizados durante o curso.
-- `OOP`: Aqui, você encontrará os projetos maiores que estou desenvolvendo para aplicar o conhecimento adquirido, principalmente em orientação a objetos.
-- `anotacoes`: Minhas anotações pessoais sobre tópicos importantes do curso.
-- `recursos`: Quaisquer recursos adicionais, como materiais complementares, que estejam sendo usados.
+### Desafio 2 - Seleção de Candidatos
 
-## Como Contribuir
+O pacote `org.example.sumary.DesafiosDIOJava.Desafio2` contém um desafio em andamento relacionado à seleção de candidatos. Este desafio ainda está em desenvolvimento e atualmente lida com a geração de salários para candidatos fictícios.
 
-Se você também está estudando este curso ou deseja compartilhar suas próprias anotações e projetos, sinta-se à vontade para fazer um fork deste repositório e contribuir. Vamos aprender juntos e aprimorar nossas habilidades em Java!
+## Simulações de Concessionária de Carros
 
-## Contato
+Dentro do pacote `org.example.sumary.PrimeiroProjetoOOP`, você encontrará uma simulação de concessionária de carros premium. Esta simulação permite que os usuários explorem diferentes marcas e modelos de carros, fornecendo informações detalhadas sobre preços, taxas de consumo e valores de seguro.
 
-Se você tiver alguma dúvida ou quiser discutir algo relacionado ao curso, sinta-se à vontade para entrar em contato comigo. Você pode encontrar minhas informações de contato no meu perfil do GitHub.
+<img src ="https://store-images.s-microsoft.com/image/apps.17182.13510798886601574.52710461-ded7-47e6-94ce-9a0e2d346c91.3481833f-0275-4263-8686-d91736c1295a?mode=scale&q=90&h=400&w=800&background=%23464646" alt ="Car logo" width ="150">
 
-Vamos continuar aprendendo e explorando o mundo da programação Java! 🚀
+## Estrutura do Projeto
+
+O projeto está estruturado da seguinte forma:
+
+- `org.example.sumary.DesafiosDIOJava.Desafio1`: Código relacionado à simulação de criação de conta bancária.
+- `org.example.sumary.DesafiosDIOJava.Desafio2`: Código parcialmente implementado para seleção de candidatos.
+- `org.example.sumary.PrimeiroProjetoOOP.Entities`: Classes relacionadas a atributos e opções de carros.
+- `org.example.sumary.PrimeiroProjetoOOP.Programs`: Programa principal para simulação da concessionária de carros.
+
+## Como Começar
+
+1. Clone o repositório para sua máquina local:
+
+
+git clone https:  `//github.com/seu-nome-de-usuario/nome-do-repositorio.git- `
+Certifique-se de ter o Java instalado em seu sistema.
+
+2. Navegue pelos diferentes pacotes para explorar os desafios de programação e simulações disponíveis. Cada pacote contém códigos relacionados a diferentes cenários e conceitos da linguagem Java.
+
+3. Você pode executar os programas e simulações em sua própria máquina, seguindo as instruções fornecidas em cada um dos pacotes. Isso permitirá que você interaja com as funcionalidades implementadas e entenda melhor os conceitos abordados.
+
+## Contribuição
+
+Contribuições são bem-vindas! Se você tiver sugestões para melhorias, novos desafios ou simulações, fique à vontade para enviar um pull request. Certifique-se de seguir as diretrizes de contribuição do repositório ao enviar suas contribuições.
+
+
+
+
+
+
