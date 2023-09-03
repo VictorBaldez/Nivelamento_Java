@@ -13,7 +13,7 @@ No pacote `org.example.sumary.DesafiosDIOJava.Desafio1`, você encontrará uma s
 
 O pacote `org.example.sumary.DesafiosDIOJava.Desafio2` contém um desafio em andamento relacionado à seleção de candidatos. Este desafio ainda está em desenvolvimento e atualmente lida com a geração de salários para candidatos fictícios.
 
-## Simulações de Concessionária de Carros
+## Simulações de Concessionária de Carros (ProjetoOOP)
 
 Dentro do pacote `org.example.sumary.PrimeiroProjetoOOP`, você encontrará uma simulação de concessionária de carros premium. Esta simulação permite que os usuários explorem diferentes marcas e modelos de carros, fornecendo informações detalhadas sobre preços, taxas de consumo e valores de seguro.
 
