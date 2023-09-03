@@ -28,6 +28,18 @@ O projeto está estruturado da seguinte forma:
 - `org.example.sumary.PrimeiroProjetoOOP.Entities`: Classes relacionadas a atributos e opções de carros.
 - `org.example.sumary.PrimeiroProjetoOOP.Programs`: Programa principal para simulação da concessionária de carros.
 
+## Projeto de Simulação Bancária em Java (SegundoProjetoOOP)
+
+Este projeto de simulação bancária em Java, localizado no pacote `org.example.sumary.SegundoProjetoOOP`, permite que os usuários realizem operações básicas de uma conta bancária, como depósito e saque, e exibe informações sobre a conta.
+
+### Funcionalidades
+
+- Criação de uma conta bancária com número de conta e nome do titular.
+- Opção de realizar um depósito inicial.
+- Realização de depósitos adicionais.
+- Realização de saques, com aplicação de uma taxa fixa.
+- Atualização das informações da conta e exibição dos dados atualizados.
+
 ## Como Começar
 
 1. Clone o repositório para sua máquina local:
