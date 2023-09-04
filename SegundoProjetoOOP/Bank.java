@@ -28,14 +28,14 @@ public class Bank {
         user.setAccountHolder(name);
         user.setBalanceAccount(balance);
         System.out.println("Account data:");
-        System.out.println(user.toString());
+        System.out.println(user);
         System.out.println("Enter a deposit value:");
         user.depositValue(input.nextFloat());
         System.out.println("Update account data: ");
-        System.out.println(user.toString());
+        System.out.println(user);
         System.out.println("Enter a withdraw value:");
         user.withdrawValue(input.nextFloat());
         System.out.println("Update account data:");
-        System.out.println(user.toString());
+        System.out.println(user);
     }
 }
